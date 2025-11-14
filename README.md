@@ -9,7 +9,9 @@ Reads a salary file and calculates total and average salary.
 
 **Data file:** `data/salary.txt`
 Alex Korp,3000
+
 Nikita Borisenko,2000
+
 Sitarama Raju,1000
 
 **Run:**
@@ -31,9 +33,9 @@ python task2.py
 Uses `colorama` to print colored directory structure.
 
 **Virtual environment:**
-python -m venv venv
-venv\Scripts\activate 
-pip install colorama
+- python -m venv venv
+- venv\Scripts\activate 
+- pip install colorama
 
 **Run:**
 python task3.py data/picture
