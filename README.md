@@ -8,6 +8,7 @@ Below is a short description and instructions for running each task.
 Reads a salary file and calculates total and average salary.
 
 **Data file:** `data/salary.txt`
+
 Alex Korp,3000
 
 Nikita Borisenko,2000
